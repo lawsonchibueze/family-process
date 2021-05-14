@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "familyprocess",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authfamilyprocess16fe3bc9",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

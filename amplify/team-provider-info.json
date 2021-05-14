@@ -10,6 +10,11 @@
       "StackName": "amplify-familyprocess-dev-170700",
       "StackId": "arn:aws:cloudformation:eu-west-1:742623632136:stack/amplify-familyprocess-dev-170700/abd3ea60-b272-11eb-aa1d-0a716b01a117",
       "AmplifyAppId": "d2z106b0h9wcc9"
+    },
+    "categories": {
+      "auth": {
+        "familyprocess16fe3bc9": {}
+      }
     }
   }
 }
